@@ -326,7 +326,7 @@ export default function Math24Game() {
               onClick={fetchAiHint}
               disabled={aiStatus === 'loading'}
             >
-              {aiStatus === 'loading' ? 'Gemini is thinking…' : 'AI Hint (Gemini)'}
+              {aiStatus === 'loading' ? 'OpenAI is thinking…' : 'AI Hint (OpenAI)'}
             </button>
             <button className="btn subtle" type="button" onClick={toggleMode}>
               Switch to {mode === 'easy' ? 'Hard' : 'Easy'}
