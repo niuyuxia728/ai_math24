@@ -1,4 +1,5 @@
 # AI_MATH24 🎯
+![Game Screenshot](assets/math24-Screenshot.png)
 
 ## Introduction
 
